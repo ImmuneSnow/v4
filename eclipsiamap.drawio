@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="KaDY8qWVnpxOr0xxrGDp">
-    <mxGraphModel dx="3437" dy="1742" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3789" dy="1953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,13 @@
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Seraph-Elyon" vertex="1">
           <mxGeometry height="80" width="160" x="260" y="75" as="geometry" />
         </mxCell>
+        <mxCell id="McRZeQoXUpVb5VXGSCiw-4" edge="1" parent="1" source="cb-FMHbV_wnR1p1tk_s9-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="McRZeQoXUpVb5VXGSCiw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-729" y="-69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Heartflame" vertex="1">
-          <mxGeometry height="80" width="160" x="-525" y="-92" as="geometry" />
+          <mxGeometry height="80" width="160" x="-979" y="-109" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-7" edge="1" parent="1" source="cb-FMHbV_wnR1p1tk_s9-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="cb-FMHbV_wnR1p1tk_s9-6">
           <mxGeometry relative="1" as="geometry" />
@@ -20,16 +25,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Sanctum&amp;nbsp; of the Blackened Faith" vertex="1">
-          <mxGeometry height="80" width="160" x="-902" y="-137" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1272" y="-137" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-29" edge="1" parent="1" source="cb-FMHbV_wnR1p1tk_s9-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="cb-FMHbV_wnR1p1tk_s9-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Where the Ruins Meet" vertex="1">
-          <mxGeometry height="80" width="160" x="-902" y="34" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1272" y="34" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Sanctum of Belphegor" vertex="1">
-          <mxGeometry height="80" width="160" x="-543" y="-490" as="geometry" />
+          <mxGeometry height="80" width="160" x="-954" y="-966" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Buried beneath the Memories" vertex="1">
           <mxGeometry height="80" width="160" x="227" y="279" as="geometry" />
@@ -47,10 +52,10 @@
           <mxGeometry height="80" width="160" x="9" y="-444" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Ruins of the Elder God" vertex="1">
-          <mxGeometry height="80" width="160" x="-779" y="344" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1149" y="344" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Price of Sacrifice" vertex="1">
-          <mxGeometry height="80" width="160" x="-985" y="194" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1355" y="194" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-25" edge="1" parent="1" source="cb-FMHbV_wnR1p1tk_s9-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="cb-FMHbV_wnR1p1tk_s9-15">
           <mxGeometry relative="1" as="geometry" />
@@ -58,14 +63,38 @@
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="where the highest fall" vertex="1">
           <mxGeometry height="80" width="160" x="20" y="-252" as="geometry" />
         </mxCell>
+        <mxCell id="McRZeQoXUpVb5VXGSCiw-12" edge="1" parent="1" source="cb-FMHbV_wnR1p1tk_s9-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="McRZeQoXUpVb5VXGSCiw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Ring of the Sea" vertex="1">
-          <mxGeometry height="80" width="160" x="-342" y="652" as="geometry" />
+          <mxGeometry height="80" width="160" x="-573" y="751" as="geometry" />
+        </mxCell>
+        <mxCell id="McRZeQoXUpVb5VXGSCiw-1" edge="1" parent="1" source="cb-FMHbV_wnR1p1tk_s9-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="cb-FMHbV_wnR1p1tk_s9-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Leviathan&#39;s Watch" vertex="1">
-          <mxGeometry height="80" width="160" x="-313" y="537" as="geometry" />
+          <mxGeometry height="80" width="160" x="-469" y="351" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-31" edge="1" parent="1" source="cb-FMHbV_wnR1p1tk_s9-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="cb-FMHbV_wnR1p1tk_s9-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="McRZeQoXUpVb5VXGSCiw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Sleep of the Soul" vertex="1">
+          <mxGeometry height="80" width="160" x="-657" y="-106" as="geometry" />
+        </mxCell>
+        <mxCell id="McRZeQoXUpVb5VXGSCiw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Pact of Duality" vertex="1">
+          <mxGeometry height="80" width="160" x="-312" y="-468" as="geometry" />
+        </mxCell>
+        <mxCell id="McRZeQoXUpVb5VXGSCiw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Armut" vertex="1">
+          <mxGeometry height="80" width="160" x="-1028" y="-652" as="geometry" />
+        </mxCell>
+        <mxCell id="McRZeQoXUpVb5VXGSCiw-11" edge="1" parent="1" source="McRZeQoXUpVb5VXGSCiw-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="cb-FMHbV_wnR1p1tk_s9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="McRZeQoXUpVb5VXGSCiw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Turned Tides" vertex="1">
+          <mxGeometry height="80" width="160" x="-142" y="569" as="geometry" />
+        </mxCell>
+        <mxCell id="McRZeQoXUpVb5VXGSCiw-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Corpse of Lust" vertex="1">
+          <mxGeometry height="80" width="160" x="-1731" y="-848" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
