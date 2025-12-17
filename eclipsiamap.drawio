@@ -46,11 +46,8 @@
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Peak of Eclipsia" vertex="1">
           <mxGeometry height="80" width="160" x="9" y="-444" as="geometry" />
         </mxCell>
-        <mxCell id="cb-FMHbV_wnR1p1tk_s9-30" edge="1" parent="1" source="cb-FMHbV_wnR1p1tk_s9-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="cb-FMHbV_wnR1p1tk_s9-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Ruins of the Elder God" vertex="1">
-          <mxGeometry height="80" width="160" x="-737" y="297" as="geometry" />
+          <mxGeometry height="80" width="160" x="-779" y="344" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Price of Sacrifice" vertex="1">
           <mxGeometry height="80" width="160" x="-985" y="194" as="geometry" />
@@ -60,9 +57,6 @@
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="where the highest fall" vertex="1">
           <mxGeometry height="80" width="160" x="20" y="-252" as="geometry" />
-        </mxCell>
-        <mxCell id="cb-FMHbV_wnR1p1tk_s9-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="The Seal" vertex="1">
-          <mxGeometry height="80" width="160" x="-827" y="502" as="geometry" />
         </mxCell>
         <mxCell id="cb-FMHbV_wnR1p1tk_s9-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Ring of the Sea" vertex="1">
           <mxGeometry height="80" width="160" x="-342" y="652" as="geometry" />
