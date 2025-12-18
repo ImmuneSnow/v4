@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="rz_pY50DHXzjPc6Lib9s">
-    <mxGraphModel dx="7910" dy="3225" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3117" dy="1207" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WRb_IU8_FaD_3ikWl58w-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;strokeColor=#9673a6;align=center;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" value="where the highest fall" vertex="1">
-          <mxGeometry height="80" width="160" x="-592" y="441" as="geometry" />
+          <mxGeometry height="80" width="160" x="-595" y="401" as="geometry" />
         </mxCell>
         <mxCell id="WRb_IU8_FaD_3ikWl58w-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Ring of the Sea" vertex="1">
           <mxGeometry height="80" width="160" x="1492" y="1930.6100000000001" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WRb_IU8_FaD_3ikWl58w-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;strokeColor=#9673a6;align=center;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" value="Frosted Bushes" vertex="1">
-          <mxGeometry height="80" width="160" x="-615" y="589" as="geometry" />
+          <mxGeometry height="80" width="160" x="-592" y="577" as="geometry" />
         </mxCell>
         <mxCell id="WRb_IU8_FaD_3ikWl58w-32" edge="1" parent="1" source="WRb_IU8_FaD_3ikWl58w-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="WRb_IU8_FaD_3ikWl58w-34">
           <mxGeometry relative="1" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WRb_IU8_FaD_3ikWl58w-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Frosted Bastion" vertex="1">
-          <mxGeometry height="80" width="160" x="-973" y="875" as="geometry" />
+          <mxGeometry height="80" width="160" x="-994" y="915" as="geometry" />
         </mxCell>
         <mxCell id="WRb_IU8_FaD_3ikWl58w-59" edge="1" parent="1" source="WRb_IU8_FaD_3ikWl58w-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="WRb_IU8_FaD_3ikWl58w-15">
           <mxGeometry relative="1" as="geometry" />
@@ -259,7 +259,7 @@
         <mxCell id="WRb_IU8_FaD_3ikWl58w-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Fractured in Sin" vertex="1">
           <mxGeometry height="80" width="160" x="2015" y="54" as="geometry" />
         </mxCell>
-        <mxCell id="QuxVDnA9uEQaxH8GtAlK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Frosted by the Birthlights" vertex="1">
+        <mxCell id="QuxVDnA9uEQaxH8GtAlK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Torn by the Birthlights" vertex="1">
           <mxGeometry height="80" width="160" x="177" y="2152" as="geometry" />
         </mxCell>
       </root>
