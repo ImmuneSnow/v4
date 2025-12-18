@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="KaDY8qWVnpxOr0xxrGDp">
-    <mxGraphModel dx="7768" dy="3460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="15820" dy="6850" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,13 +107,13 @@
           <mxGeometry height="80" width="160" x="-269" y="110" as="geometry" />
         </mxCell>
         <mxCell id="McRZeQoXUpVb5VXGSCiw-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#cdeb8b;strokeColor=#36393d;" value="the Hoard" vertex="1">
-          <mxGeometry height="80" width="160" x="-664" y="627" as="geometry" />
+          <mxGeometry height="80" width="160" x="-852" y="627" as="geometry" />
         </mxCell>
-        <mxCell id="McRZeQoXUpVb5VXGSCiw-198" edge="1" parent="1" source="McRZeQoXUpVb5VXGSCiw-112" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="McRZeQoXUpVb5VXGSCiw-192">
+        <mxCell id="NN4khLUC44C-KilixJAu-1" edge="1" parent="1" source="McRZeQoXUpVb5VXGSCiw-112" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="McRZeQoXUpVb5VXGSCiw-189">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McRZeQoXUpVb5VXGSCiw-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;" value="Agony of Wrath" vertex="1">
-          <mxGeometry height="80" width="160" x="1218" y="43" as="geometry" />
+          <mxGeometry height="80" width="160" x="889" y="354" as="geometry" />
         </mxCell>
         <mxCell id="McRZeQoXUpVb5VXGSCiw-116" edge="1" parent="1" source="McRZeQoXUpVb5VXGSCiw-114" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="McRZeQoXUpVb5VXGSCiw-115">
           <mxGeometry relative="1" as="geometry" />
@@ -187,32 +187,29 @@
         <mxCell id="McRZeQoXUpVb5VXGSCiw-168" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;strokeColor=#b46504;align=center;verticalAlign=middle;fontColor=default;fillColor=#fad7ac;" value="Sinner&#39;s Crown" vertex="1">
           <mxGeometry height="80" width="160" x="761" y="-447" as="geometry" />
         </mxCell>
-        <mxCell id="McRZeQoXUpVb5VXGSCiw-197" edge="1" parent="1" source="McRZeQoXUpVb5VXGSCiw-170" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="McRZeQoXUpVb5VXGSCiw-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="McRZeQoXUpVb5VXGSCiw-200" edge="1" parent="1" source="McRZeQoXUpVb5VXGSCiw-170" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="McRZeQoXUpVb5VXGSCiw-189">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="McRZeQoXUpVb5VXGSCiw-170" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;glass=0;shadow=0;" value="Cruciform Crossroads" vertex="1">
-          <mxGeometry height="80" width="160" x="964" y="221" as="geometry" />
+          <mxGeometry height="80" width="160" x="1107" y="92" as="geometry" />
         </mxCell>
         <mxCell id="McRZeQoXUpVb5VXGSCiw-175" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;" value="Shrouded Corpses" vertex="1">
           <mxGeometry height="80" width="160" x="-690" y="-56" as="geometry" />
         </mxCell>
-        <mxCell id="McRZeQoXUpVb5VXGSCiw-196" edge="1" parent="1" source="McRZeQoXUpVb5VXGSCiw-186" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="McRZeQoXUpVb5VXGSCiw-170">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="McRZeQoXUpVb5VXGSCiw-186" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;glass=0;shadow=0;" value="Charred Saplings" vertex="1">
-          <mxGeometry height="80" width="160" x="709" y="56" as="geometry" />
+          <mxGeometry height="80" width="160" x="644" y="88" as="geometry" />
         </mxCell>
         <mxCell id="McRZeQoXUpVb5VXGSCiw-189" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;glass=0;shadow=0;" value="Rupture" vertex="1">
-          <mxGeometry height="80" width="160" x="909" y="433" as="geometry" />
-        </mxCell>
-        <mxCell id="McRZeQoXUpVb5VXGSCiw-199" edge="1" parent="1" source="McRZeQoXUpVb5VXGSCiw-192" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="McRZeQoXUpVb5VXGSCiw-170">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="80" width="160" x="968" y="612" as="geometry" />
         </mxCell>
         <mxCell id="McRZeQoXUpVb5VXGSCiw-192" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;glass=0;shadow=0;" value="Binding Chains" vertex="1">
           <mxGeometry height="80" width="160" x="1267" y="316" as="geometry" />
+        </mxCell>
+        <mxCell id="NN4khLUC44C-KilixJAu-5" edge="1" parent="1" source="NN4khLUC44C-KilixJAu-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="McRZeQoXUpVb5VXGSCiw-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN4khLUC44C-KilixJAu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#cdeb8b;strokeColor=#36393d;" value="Arms grown by Thorns" vertex="1">
+          <mxGeometry height="80" width="160" x="-591" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NN4khLUC44C-KilixJAu-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;verticalAlign=middle;fontColor=default;" value="Mirrored Inlet" vertex="1">
+          <mxGeometry height="80" width="160" x="438" y="565" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
