@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="reC33BlOjctf4BNbaDIW">
-    <mxGraphModel dx="1837" dy="1342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="1269" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,10 +161,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Holiness Bound" vertex="1">
-          <mxGeometry height="80" width="160" x="4863" y="395" as="geometry" />
+          <mxGeometry height="80" width="160" x="5644" y="1648" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Veilborn" vertex="1">
-          <mxGeometry height="80" width="160" x="5533" y="-71" as="geometry" />
+          <mxGeometry height="80" width="160" x="6314" y="1182" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" value="Sloth" vertex="1">
           <mxGeometry height="80" width="160" x="5731" y="2370" as="geometry" />
@@ -326,43 +326,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Sins" vertex="1">
-          <mxGeometry height="80" width="160" x="5273" y="197" as="geometry" />
+          <mxGeometry height="80" width="160" x="6054" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-134" edge="1" parent="1" source="kAY8l4mpjA8EybtCXD_p-110" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="kAY8l4mpjA8EybtCXD_p-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Nethermost" vertex="1">
-          <mxGeometry height="80" width="160" x="5273" y="821" as="geometry" />
+          <mxGeometry height="80" width="160" x="6054" y="2074" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-111" edge="1" parent="1" source="kAY8l4mpjA8EybtCXD_p-112" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="kAY8l4mpjA8EybtCXD_p-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Pilfer (Gluttony, Greed, Envy)" vertex="1">
-          <mxGeometry height="80" width="160" x="5560" y="547" as="geometry" />
+          <mxGeometry height="80" width="160" x="6341" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-113" edge="1" parent="1" source="kAY8l4mpjA8EybtCXD_p-114" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="kAY8l4mpjA8EybtCXD_p-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Superior Above (Pride, Wrath)" vertex="1">
-          <mxGeometry height="80" width="160" x="5560" y="414" as="geometry" />
+          <mxGeometry height="80" width="160" x="6341" y="1667" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-115" edge="1" parent="1" source="kAY8l4mpjA8EybtCXD_p-116" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="kAY8l4mpjA8EybtCXD_p-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Neglegence (Sloth)" vertex="1">
-          <mxGeometry height="80" width="160" x="5560" y="680" as="geometry" />
+          <mxGeometry height="80" width="160" x="6341" y="1933" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-117" edge="1" parent="1" source="kAY8l4mpjA8EybtCXD_p-118" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="kAY8l4mpjA8EybtCXD_p-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Mind and Heart (Lust)" vertex="1">
-          <mxGeometry height="80" width="160" x="5560" y="281" as="geometry" />
+          <mxGeometry height="80" width="160" x="6341" y="1534" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-135" edge="1" parent="1" source="kAY8l4mpjA8EybtCXD_p-119" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;dashed=1;dashPattern=8 8;" target="kAY8l4mpjA8EybtCXD_p-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAY8l4mpjA8EybtCXD_p-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="What You&#39;ve Become" vertex="1">
-          <mxGeometry height="80" width="160" x="5560" y="148" as="geometry" />
+          <mxGeometry height="80" width="160" x="6341" y="1401" as="geometry" />
         </mxCell>
         <mxCell id="VaT4VxS7o3TTBWnoRqRI-7" edge="1" parent="1" source="VaT4VxS7o3TTBWnoRqRI-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="VaT4VxS7o3TTBWnoRqRI-6">
           <mxGeometry relative="1" as="geometry" />
@@ -385,11 +385,8 @@
         <mxCell id="VaT4VxS7o3TTBWnoRqRI-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontColor=default;fillColor=#dae8fc;" value="Unmistakable Weight" vertex="1">
           <mxGeometry height="80" width="160" x="2258" y="1845" as="geometry" />
         </mxCell>
-        <mxCell id="VaT4VxS7o3TTBWnoRqRI-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontColor=default;fillColor=#dae8fc;" value="Aquatic Blessing" vertex="1">
-          <mxGeometry height="80" width="160" x="792" y="1569" as="geometry" />
-        </mxCell>
         <mxCell id="VaT4VxS7o3TTBWnoRqRI-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontColor=default;fillColor=#dae8fc;" value="UNtouched FLesh" vertex="1">
-          <mxGeometry height="80" width="160" x="1167" y="996" as="geometry" />
+          <mxGeometry height="80" width="160" x="1167" y="992" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
