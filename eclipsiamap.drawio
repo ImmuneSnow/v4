@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram name="Page-1" id="qODMdzcckiVwzVFT9oVX">
-    <mxGraphModel dx="13420" dy="5650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="5368" dy="2260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,7 +383,7 @@
           <mxGeometry height="80" width="160" x="6101" y="428" as="geometry" />
         </mxCell>
         <mxCell id="kbzQVn2t46IVG1yOsSrc-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Leviathan&#39;s watch" vertex="1">
-          <mxGeometry height="80" width="160" x="6212" y="966" as="geometry" />
+          <mxGeometry height="80" width="160" x="5779" y="1066" as="geometry" />
         </mxCell>
         <mxCell id="kbzQVn2t46IVG1yOsSrc-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Peak of Eclipsia" vertex="1">
           <mxGeometry height="80" width="160" x="6736" y="40" as="geometry" />
@@ -404,16 +404,16 @@
           <mxGeometry height="80" width="160" x="6835" y="808" as="geometry" />
         </mxCell>
         <mxCell id="kbzQVn2t46IVG1yOsSrc-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Kept in Fear" vertex="1">
-          <mxGeometry height="80" width="160" x="6612" y="1132" as="geometry" />
+          <mxGeometry height="80" width="160" x="6856" y="1178" as="geometry" />
         </mxCell>
         <mxCell id="kbzQVn2t46IVG1yOsSrc-135" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Frosted Thorns" vertex="1">
           <mxGeometry height="80" width="160" x="6813" y="444" as="geometry" />
         </mxCell>
         <mxCell id="kbzQVn2t46IVG1yOsSrc-136" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Underground city where people hid in fear from sin" vertex="1">
-          <mxGeometry height="198" width="160" x="6612" y="1212" as="geometry" />
+          <mxGeometry height="198" width="160" x="6856" y="1258" as="geometry" />
         </mxCell>
         <mxCell id="kbzQVn2t46IVG1yOsSrc-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Offshore Island where Leviathan guards&amp;nbsp;" vertex="1">
-          <mxGeometry height="198" width="160" x="6212" y="1043" as="geometry" />
+          <mxGeometry height="198" width="160" x="5779" y="1143" as="geometry" />
         </mxCell>
         <mxCell id="kbzQVn2t46IVG1yOsSrc-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Dungeons and hallways underground to keep secrets" vertex="1">
           <mxGeometry height="198" width="160" x="6835" y="888" as="geometry" />
@@ -424,7 +424,7 @@
         <mxCell id="kbzQVn2t46IVG1yOsSrc-140" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Veiled One" vertex="1">
           <mxGeometry height="198" width="160" x="7420" y="476" as="geometry" />
         </mxCell>
-        <mxCell id="kbzQVn2t46IVG1yOsSrc-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Supermassive cathedral, central metropolis" vertex="1">
+        <mxCell id="kbzQVn2t46IVG1yOsSrc-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Supermassive cathedral,&amp;nbsp;" vertex="1">
           <mxGeometry height="198" width="160" x="6426" y="681" as="geometry" />
         </mxCell>
         <mxCell id="kbzQVn2t46IVG1yOsSrc-142" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Where Selynthar innocently sleeps" vertex="1">
@@ -465,6 +465,24 @@
         </mxCell>
         <mxCell id="kbzQVn2t46IVG1yOsSrc-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Rotted Angels - hanging angels who tried to pierce the sin cloud" vertex="1">
           <mxGeometry height="198" width="160" x="7700" y="1265" as="geometry" />
+        </mxCell>
+        <mxCell id="p9W-biLjq9_fWXjLiW5T-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Under our Mother" vertex="1">
+          <mxGeometry height="80" width="160" x="6437" y="966" as="geometry" />
+        </mxCell>
+        <mxCell id="p9W-biLjq9_fWXjLiW5T-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="The Metropolis of Eclipsia, underneath and connected to the central church" vertex="1">
+          <mxGeometry height="198" width="160" x="6437" y="1046" as="geometry" />
+        </mxCell>
+        <mxCell id="p9W-biLjq9_fWXjLiW5T-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Road to our Faith" vertex="1">
+          <mxGeometry height="80" width="160" x="6035" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="p9W-biLjq9_fWXjLiW5T-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Long stretch of roads leading to Seraph-Elyon" vertex="1">
+          <mxGeometry height="198" width="160" x="6035" y="973" as="geometry" />
+        </mxCell>
+        <mxCell id="p9W-biLjq9_fWXjLiW5T-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Inverted Spire" vertex="1">
+          <mxGeometry height="80" width="160" x="6443" y="1384" as="geometry" />
+        </mxCell>
+        <mxCell id="p9W-biLjq9_fWXjLiW5T-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;fontSize=20;align=center;verticalAlign=middle;" value="Where divinity climbed up, Sin pulled down" vertex="1">
+          <mxGeometry height="198" width="160" x="6443" y="1464" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
