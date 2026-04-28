@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="j9NwhvNSQ9Nb_EluspOX">
-    <mxGraphModel dx="959" dy="346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="606" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CnyTc_cmp-E1sZ_Ip6yX-4" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;The Hand That Takes&lt;/h1&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Being of Sin, fought against &lt;b&gt;Selynthar&lt;/b&gt; in the War above. trapped inside the &lt;b&gt;Godscar&lt;/b&gt;. Eventually &lt;b&gt;Ruptured&lt;/b&gt;, taking one of the &lt;b&gt;Four Great Knights&lt;/b&gt; and turning him into the &lt;b&gt;Veiled One&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="203" width="180" x="992" y="324.5" as="geometry" />
+          <mxGeometry height="203" width="180" x="990" y="324.5" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-5" edge="1" parent="1" source="cteeXFExkGseJQqinhMh-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="cteeXFExkGseJQqinhMh-4">
           <mxGeometry relative="1" as="geometry" />
