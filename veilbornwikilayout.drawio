@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="j9NwhvNSQ9Nb_EluspOX">
-    <mxGraphModel dx="1032" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="cteeXFExkGseJQqinhMh-1" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;War Above&lt;/h1&gt;&lt;div&gt;Ancient war between &lt;b&gt;Selynthar&lt;/b&gt; and &lt;b&gt;The Hand That Takes.&lt;/b&gt; Predates everything, ending in Selynthar&#39;s victory after sin was sealed into the &lt;b&gt;Godscar&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="165" width="180" x="599" y="223" as="geometry" />
         </mxCell>
-        <mxCell id="cteeXFExkGseJQqinhMh-4" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Godscar&lt;/h1&gt;&lt;div&gt;Underworld hellish abyss beneath Eclipsia, sealing The Hand That Takes and sin within after the War Above, created from Selynthar&#39;s Secarsion&lt;/div&gt;" vertex="1">
+        <mxCell id="cteeXFExkGseJQqinhMh-4" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Godscar&lt;/h1&gt;&lt;div&gt;Underworld hellish abyss beneath &lt;b&gt;Eclipsia&lt;/b&gt;, sealing &lt;b&gt;The Hand That Takes&lt;/b&gt; and sin within after the &lt;b&gt;War Above&lt;/b&gt;, created from &lt;b&gt;Selynthar&lt;/b&gt;&#39;s &lt;b&gt;Secarsion&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="203" width="180" x="650" y="569" as="geometry" />
         </mxCell>
       </root>
