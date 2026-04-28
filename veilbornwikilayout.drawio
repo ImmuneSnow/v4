@@ -1,17 +1,26 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="j9NwhvNSQ9Nb_EluspOX">
-    <mxGraphModel dx="1579" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2065" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CnyTc_cmp-E1sZ_Ip6yX-6" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="CnyTc_cmp-E1sZ_Ip6yX-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cteeXFExkGseJQqinhMh-2" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="cteeXFExkGseJQqinhMh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CnyTc_cmp-E1sZ_Ip6yX-2" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Selynthar&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;God herself. Fought against &lt;b&gt;The Hand That Takes&lt;/b&gt; in the &lt;b&gt;War Above&lt;/b&gt;, eventually descending into the &lt;b&gt;Gray World&lt;/b&gt; and performing &lt;b&gt;Secarsion&lt;/b&gt; to seal THTT into the &lt;b&gt;Godscar&lt;/b&gt; and bring life to &lt;b&gt;Eclipsia&lt;/b&gt;. Created the &lt;b&gt;Birthlights&lt;/b&gt; and the &lt;b&gt;Veilborn&lt;/b&gt;, lives in &lt;b&gt;Seraph-Elyon&lt;/b&gt; and is trapped outside by the &lt;b&gt;Sin Cloud&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="248" width="180" x="384" y="302" as="geometry" />
         </mxCell>
+        <mxCell id="cteeXFExkGseJQqinhMh-3" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="cteeXFExkGseJQqinhMh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CnyTc_cmp-E1sZ_Ip6yX-4" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;The Hand That Takes&lt;/h1&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Being of Sin, fought against &lt;b&gt;Selynthar&lt;/b&gt; in the War above. trapped inside the &lt;b&gt;Godscar&lt;/b&gt;. Eventually &lt;b&gt;Ruptured&lt;/b&gt;, taking one of the &lt;b&gt;Four Great Knights&lt;/b&gt; and turning him into the &lt;b&gt;Veiled One&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="203" width="180" x="645" y="302" as="geometry" />
+          <mxGeometry height="203" width="180" x="820" y="324.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cteeXFExkGseJQqinhMh-1" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;War Above&lt;/h1&gt;&lt;div&gt;Ancient war between &lt;b&gt;Selynthar&lt;/b&gt; and &lt;b&gt;The Hand That Takes.&lt;/b&gt; Predates everything, ending in Selynthar&#39;s victory after sin was sealed into the &lt;b&gt;Godscar&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="165" width="180" x="512" y="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
