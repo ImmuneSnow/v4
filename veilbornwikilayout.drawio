@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="j9NwhvNSQ9Nb_EluspOX">
-    <mxGraphModel dx="11427" dy="5953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7656" dy="3572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CnyTc_cmp-E1sZ_Ip6yX-2" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Selynthar&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;God herself. Fought against &lt;b&gt;The Hand That Takes&lt;/b&gt; in the &lt;b&gt;War Above&lt;/b&gt;, eventually descending into the &lt;b&gt;Gray World&lt;/b&gt; and performing &lt;b&gt;Secarsion&lt;/b&gt; to seal The Hand That Takes into the &lt;b&gt;Godscar&lt;/b&gt; and bring life to &lt;b&gt;Eclipsia&lt;/b&gt;. Created the &lt;b&gt;Birthlights&lt;/b&gt; and the &lt;b&gt;Veilborn&lt;/b&gt;, lives in &lt;b&gt;Seraph-Elyon&lt;/b&gt; and is trapped outside by the &lt;b&gt;Sin Cloud&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="270" width="188" x="-20" as="geometry" />
+          <mxGeometry height="270" width="188" x="10" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-3" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="cteeXFExkGseJQqinhMh-1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,26 +25,26 @@
         <mxCell id="cteeXFExkGseJQqinhMh-7" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="cteeXFExkGseJQqinhMh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vESyuJhb2s0FRK3e8iiK-75" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-4" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-75" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-4" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CnyTc_cmp-E1sZ_Ip6yX-4" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;The Hand That Takes&lt;/h1&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Being of Sin, fought against &lt;b&gt;Selynthar&lt;/b&gt; in the War above. trapped inside the &lt;b&gt;Godscar&lt;/b&gt;. Eventually &lt;b&gt;Ruptured&lt;/b&gt;, taking one of the &lt;b&gt;Four Great Knights&lt;/b&gt; and turning him into the &lt;b&gt;Veiled One&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="208.5" width="180" x="649" y="118" as="geometry" />
+          <mxGeometry height="208.5" width="180" x="678" y="118" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-5" edge="1" parent="1" source="cteeXFExkGseJQqinhMh-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="cteeXFExkGseJQqinhMh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-1" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;War Above&lt;/h1&gt;&lt;div&gt;Ancient war between &lt;b&gt;Selynthar&lt;/b&gt; and &lt;b&gt;The Hand That Takes.&lt;/b&gt; Predates everything, ending in Selynthar&#39;s victory after sin was sealed into the &lt;b&gt;Godscar&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="165" width="180" x="1236" y="457" as="geometry" />
+          <mxGeometry height="165" width="180" x="1266" y="457" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-4" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Godscar&lt;/h1&gt;&lt;div&gt;Underworld hellish abyss beneath the world, sealing &lt;b&gt;The Hand That Takes&lt;/b&gt; and sin within after the &lt;b&gt;War Above&lt;/b&gt;, created from &lt;b&gt;Selynthar&lt;/b&gt;&#39;s &lt;b&gt;Secarsion&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="163" width="177" x="1672" y="977" as="geometry" />
+          <mxGeometry height="163" width="177" x="1702" y="977" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-10" edge="1" parent="1" source="cteeXFExkGseJQqinhMh-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=wire;dashed=1;noEdgeStyle=1;orthogonal=1;" target="cteeXFExkGseJQqinhMh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-8" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Secarsion&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;The act of an omnipotent being willingly relinquishing their power in exchange for morality. Performed by &lt;b&gt;Selynthar&lt;/b&gt;, creating &lt;b&gt;Eclipsia&lt;/b&gt; and the &lt;b&gt;Godscar&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="180" x="1904" y="1615" as="geometry" />
+          <mxGeometry height="175" width="180" x="1934" y="1615" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-3" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="cteeXFExkGseJQqinhMh-8">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-1" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Eclipsia&lt;/h1&gt;&lt;div&gt;Kingdom dedicated to &lt;b&gt;Selynthar&lt;/b&gt;, created after &lt;b&gt;Secarsion&lt;/b&gt;. Contains &lt;b&gt;Seraph-Elyon&lt;/b&gt; as the capital, with the &lt;b&gt;O.B.C.&lt;/b&gt; as the dominant military branch.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="166" width="180" x="1904" y="2293" as="geometry" />
+          <mxGeometry height="166" width="180" x="1934" y="2293" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-7" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-5" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Seraph-Elyon&lt;/h1&gt;&lt;div&gt;Central capital of &lt;b&gt;Eclipsia&lt;/b&gt;, both a metropolis and a supermassive church that houses &lt;b&gt;Selynthar&lt;/b&gt;, with the &lt;b&gt;O.B.C&lt;/b&gt;. as the military branch&lt;/div&gt;" vertex="1">
-          <mxGeometry height="166" width="200" x="1672" y="2931" as="geometry" />
+          <mxGeometry height="166" width="200" x="1702" y="2931" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-10" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-8" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;O.B.C.&lt;/h1&gt;&lt;div&gt;Stands for &quot;Order of the Broken Celestial&quot;. Military branch of &lt;b&gt;Seraph-Elyon&lt;/b&gt;, launching crusades frequently on the &lt;b&gt;Gray World&lt;/b&gt; and providing information about sin to &lt;b&gt;Selynthar&lt;/b&gt;. Commanded by the &lt;b&gt;Four Great Knights&lt;/b&gt;, eventually destroyed after the &lt;b&gt;Lust War&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="225" width="180" x="1236" y="3450" as="geometry" />
+          <mxGeometry height="225" width="180" x="1266" y="3450" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-13" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="cteeXFExkGseJQqinhMh-8">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-11" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Gray World&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;Lifeless plane populated by mindless husks. Neither touched by sin or virtue during the &lt;b&gt;War Above&lt;/b&gt;. After &lt;b&gt;Selynthar&lt;/b&gt;&#39;s &lt;b&gt;secarsion&lt;/b&gt;, it was populated by humans, where &lt;b&gt;Eclipsia&lt;/b&gt; was founded and the &lt;b&gt;O.B.C&lt;/b&gt;. launches crusades to claim land.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="221" width="180" x="649" y="3790" as="geometry" />
+          <mxGeometry height="221" width="180" x="678" y="3790" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-28" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
           <mxGeometry relative="1" as="geometry" />
@@ -94,11 +94,11 @@
         <mxCell id="vESyuJhb2s0FRK3e8iiK-31" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="CnyTc_cmp-E1sZ_Ip6yX-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vESyuJhb2s0FRK3e8iiK-78" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="vESyuJhb2s0FRK3e8iiK-20">
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-78" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" target="vESyuJhb2s0FRK3e8iiK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-19" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Birthlights&lt;/h1&gt;&lt;div&gt;Lesser invisible deities created by &lt;b&gt;Selynthar&lt;/b&gt; in heaven that represent the virtues that keep &lt;b&gt;Eclipsia&lt;/b&gt; together. During the &lt;b&gt;Rupture&lt;/b&gt;, each one is inverted by &lt;b&gt;The Hand That&lt;/b&gt; &lt;b&gt;Takes&lt;/b&gt; and transformed into the Keepers of the Deadly Sins&lt;/div&gt;" vertex="1">
-          <mxGeometry height="225" width="180" x="-20" y="3908" as="geometry" />
+          <mxGeometry height="225" width="180" x="10" y="3908" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-32" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="CnyTc_cmp-E1sZ_Ip6yX-4">
           <mxGeometry relative="1" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-20" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rupture&lt;/h1&gt;&lt;div&gt;Catastrophic event involving &lt;b&gt;The Hand That Takes&lt;/b&gt; breaking the seal that kept it in the &lt;b&gt;Godscar&lt;/b&gt;, literally all hell breaking loose on &lt;b&gt;Eclipsia&lt;/b&gt;. Deadly sins manifest physically and the &lt;b&gt;Sin Cloud&lt;/b&gt; forms over the skies to keep &lt;b&gt;Selynthar&lt;/b&gt; out, a crisis.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="226" width="180" x="-688" y="3790" as="geometry" />
+          <mxGeometry height="226" width="180" x="-658" y="3790" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-37" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="vESyuJhb2s0FRK3e8iiK-23">
           <mxGeometry relative="1" as="geometry">
@@ -138,11 +138,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vESyuJhb2s0FRK3e8iiK-77" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="vESyuJhb2s0FRK3e8iiK-20">
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-77" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" target="vESyuJhb2s0FRK3e8iiK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-21" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;the Veilborn&lt;/h1&gt;&lt;div&gt;The protagonist. Originally one of the &lt;b&gt;Four Great Knights&lt;/b&gt; of the &lt;b&gt;O.B.C&lt;/b&gt;., chosen to ascend into heaven by &lt;b&gt;Selynthar&lt;/b&gt;. They were enhanced, remade into a powerful archangel that commanded the army of angels in heaven when sin inevitably &lt;b&gt;rupture&lt;/b&gt;s.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bears a veil that allows them to not immediately be corrupted under the &lt;b&gt;Sin Cloud&lt;/b&gt;, and bind the will and spirit to the body,.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Destined with one single purpose, &lt;i&gt;&quot;To Pierce the Heart of Sin&lt;/i&gt;&quot;.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="341" width="202" x="-1276" y="3450" as="geometry" />
+          <mxGeometry height="341" width="202" x="-1246" y="3450" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-43" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
           <mxGeometry relative="1" as="geometry" />
@@ -151,7 +151,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-22" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sin Cloud&lt;/h1&gt;&lt;div&gt;Metaphysical and spiritual barrier that forms over &lt;b&gt;Eclipsia&lt;/b&gt; after the &lt;b&gt;Rupture&lt;/b&gt;, blocking &lt;b&gt;Selynthar&lt;/b&gt; from intervening and prayers being rendered as useless.&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="158" width="202" x="-1712" y="2931" as="geometry" />
+          <mxGeometry height="158" width="202" x="-1682" y="2931" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-45" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="vESyuJhb2s0FRK3e8iiK-11">
           <mxGeometry relative="1" as="geometry">
@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-23" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Four great Knights&lt;/h1&gt;&lt;div&gt;Four knights that command the &lt;b&gt;O.B.C.&lt;/b&gt;, renowned for their strengths and feats during crusades in the &lt;b&gt;Gray World, &lt;/b&gt;extremely loyal and providing research to &lt;b&gt;Selynthar &lt;/b&gt;of the inevitable return of sin privately. The group consists of &lt;b&gt;Rosary&lt;/b&gt; and &lt;b&gt;Dolmira&lt;/b&gt;, as well as &lt;b&gt;the Veilborn&lt;/b&gt; who ascended, and &lt;b&gt;the Veiled One&lt;/b&gt; who&#39;s identity is unknown and was taken and transformed during the &lt;b&gt;Rupture&lt;/b&gt; by &lt;b&gt;The Hand That Takes&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="320" width="210" x="-1944" y="2293" as="geometry" />
+          <mxGeometry height="320" width="210" x="-1914" y="2293" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-52" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="vESyuJhb2s0FRK3e8iiK-20">
           <mxGeometry relative="1" as="geometry">
@@ -217,7 +217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-24" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Lust War&lt;/h1&gt;&lt;div&gt;Massive war taking place during the &lt;b&gt;Rupture&lt;/b&gt;. The &lt;b&gt;O.B.C.&lt;/b&gt; fighting against the Sin of Lust that physically manifested. It resulted in the death of the sin, but left less than a dozen knights alive, scarring &lt;b&gt;Eclipsia&lt;/b&gt;&amp;nbsp;and &lt;b&gt;Selynthar&lt;/b&gt; forever&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="191" width="202" x="-1944" y="1615" as="geometry" />
+          <mxGeometry height="191" width="202" x="-1914" y="1615" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-55" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="vESyuJhb2s0FRK3e8iiK-20">
           <mxGeometry relative="1" as="geometry">
@@ -245,7 +245,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-25" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;The Veiled One&lt;/h1&gt;&lt;div&gt;Primary Antagonist. Originally part of the &lt;b&gt;Four Great Knights&lt;/b&gt;, they were taken during the &lt;b&gt;Rupture&lt;/b&gt; and transformed into a being of sin by &lt;b&gt;The Hand That Takes&lt;/b&gt;, almost a counterpart to &lt;b&gt;the Veilborn&lt;/b&gt;. Veins connect it to the deadly sins, it rests in a metamorphasis state, awaiting until it has enough strength to ascend past the &lt;b&gt;Sin Cloud&lt;/b&gt; and ultimately kill &lt;b&gt;Selynthar&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="252" width="210" x="-1712" y="977" as="geometry" />
+          <mxGeometry height="252" width="210" x="-1682" y="977" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-63" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-26" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="vESyuJhb2s0FRK3e8iiK-11">
           <mxGeometry relative="1" as="geometry">
@@ -273,18 +273,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-26" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rosary&lt;/h1&gt;&lt;div&gt;One of the &lt;b&gt;Four Great Knights&lt;/b&gt;. She fled into the &lt;b&gt;Gray World&lt;/b&gt; during the &lt;b&gt;Rupture&lt;/b&gt; before the &lt;b&gt;Lust War&lt;/b&gt;, knowing that it was a battle she could never win. She only returns after the death of &lt;b&gt;the Veiled One&lt;/b&gt;, able to see through deception and maintaining loyalty with some doubt to &lt;b&gt;Selynthar&lt;/b&gt;.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="234" width="189" x="-1276" y="457" as="geometry" />
+          <mxGeometry height="234" width="189" x="-1246" y="457" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-61" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-27" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;orthogonal=1;" target="vESyuJhb2s0FRK3e8iiK-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vESyuJhb2s0FRK3e8iiK-76" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-27" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-76" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-27" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vESyuJhb2s0FRK3e8iiK-27" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Dolmira&lt;/h1&gt;&lt;div&gt;One of the &lt;b&gt;Four Great Knights&lt;/b&gt;. She was one of the few survivors of the &lt;b&gt;Lust War&lt;/b&gt;, staying alive under the &lt;b&gt;Sin Cloud&lt;/b&gt; as an intensely zealous and faithful knight of &lt;b&gt;Selynthar&lt;/b&gt;.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="185" width="189" x="-688" y="118" as="geometry" />
+          <mxGeometry height="185" width="189" x="-658" y="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
