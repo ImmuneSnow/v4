@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="j9NwhvNSQ9Nb_EluspOX">
-    <mxGraphModel dx="1413" dy="511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2168" dy="1116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,11 @@
         <mxCell id="cteeXFExkGseJQqinhMh-12" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=wire;dashed=1;endArrow=none;endFill=0;" target="cteeXFExkGseJQqinhMh-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CnyTc_cmp-E1sZ_Ip6yX-2" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Selynthar&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;God herself. Fought against &lt;b&gt;The Hand That Takes&lt;/b&gt; in the &lt;b&gt;War Above&lt;/b&gt;, eventually descending into the &lt;b&gt;Gray World&lt;/b&gt; and performing &lt;b&gt;Secarsion&lt;/b&gt; to seal THTT into the &lt;b&gt;Godscar&lt;/b&gt; and bring life to &lt;b&gt;Eclipsia&lt;/b&gt;. Created the &lt;b&gt;Birthlights&lt;/b&gt; and the &lt;b&gt;Veilborn&lt;/b&gt;, lives in &lt;b&gt;Seraph-Elyon&lt;/b&gt; and is trapped outside by the &lt;b&gt;Sin Cloud&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="248" width="180" x="387" y="302" as="geometry" />
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-2" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="vESyuJhb2s0FRK3e8iiK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnyTc_cmp-E1sZ_Ip6yX-2" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Selynthar&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;God herself. Fought against &lt;b&gt;The Hand That Takes&lt;/b&gt; in the &lt;b&gt;War Above&lt;/b&gt;, eventually descending into the &lt;b&gt;Gray World&lt;/b&gt; and performing &lt;b&gt;Secarsion&lt;/b&gt; to seal The Hand That Takes into the &lt;b&gt;Godscar&lt;/b&gt; and bring life to &lt;b&gt;Eclipsia&lt;/b&gt;. Created the &lt;b&gt;Birthlights&lt;/b&gt; and the &lt;b&gt;Veilborn&lt;/b&gt;, lives in &lt;b&gt;Seraph-Elyon&lt;/b&gt; and is trapped outside by the &lt;b&gt;Sin Cloud&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="262" width="188" x="415" y="205" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-3" edge="1" parent="1" source="CnyTc_cmp-E1sZ_Ip6yX-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="cteeXFExkGseJQqinhMh-1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,22 +26,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CnyTc_cmp-E1sZ_Ip6yX-4" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;The Hand That Takes&lt;/h1&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Being of Sin, fought against &lt;b&gt;Selynthar&lt;/b&gt; in the War above. trapped inside the &lt;b&gt;Godscar&lt;/b&gt;. Eventually &lt;b&gt;Ruptured&lt;/b&gt;, taking one of the &lt;b&gt;Four Great Knights&lt;/b&gt; and turning him into the &lt;b&gt;Veiled One&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="208.5" width="180" x="990" y="324.5" as="geometry" />
+          <mxGeometry height="208.5" width="180" x="950" y="216.5" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-5" edge="1" parent="1" source="cteeXFExkGseJQqinhMh-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="cteeXFExkGseJQqinhMh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-1" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;War Above&lt;/h1&gt;&lt;div&gt;Ancient war between &lt;b&gt;Selynthar&lt;/b&gt; and &lt;b&gt;The Hand That Takes.&lt;/b&gt; Predates everything, ending in Selynthar&#39;s victory after sin was sealed into the &lt;b&gt;Godscar&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="165" width="180" x="684" y="103" as="geometry" />
+          <mxGeometry height="165" width="180" x="619" y="34" as="geometry" />
         </mxCell>
-        <mxCell id="cteeXFExkGseJQqinhMh-4" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Godscar&lt;/h1&gt;&lt;div&gt;Underworld hellish abyss beneath &lt;b&gt;Eclipsia&lt;/b&gt;, sealing &lt;b&gt;The Hand That Takes&lt;/b&gt; and sin within after the &lt;b&gt;War Above&lt;/b&gt;, created from &lt;b&gt;Selynthar&lt;/b&gt;&#39;s &lt;b&gt;Secarsion&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="157" width="180" x="687" y="347" as="geometry" />
+        <mxCell id="cteeXFExkGseJQqinhMh-4" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Godscar&lt;/h1&gt;&lt;div&gt;Underworld hellish abyss beneath the world, sealing &lt;b&gt;The Hand That Takes&lt;/b&gt; and sin within after the &lt;b&gt;War Above&lt;/b&gt;, created from &lt;b&gt;Selynthar&lt;/b&gt;&#39;s &lt;b&gt;Secarsion&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="163" width="180" x="673" y="295" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-10" edge="1" parent="1" source="cteeXFExkGseJQqinhMh-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;shape=wire;dashed=1;" target="cteeXFExkGseJQqinhMh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cteeXFExkGseJQqinhMh-8" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Secarsion&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;The act of an omnipotent being willingly relinquishing their power in exchange for morality. Performed by &lt;b&gt;Selynthar&lt;/b&gt;, creating &lt;b&gt;Eclipsia&lt;/b&gt; and the &lt;b&gt;Godscar&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="180" x="389" y="652" as="geometry" />
+          <mxGeometry height="175" width="180" x="407" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-3" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="cteeXFExkGseJQqinhMh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-6" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="vESyuJhb2s0FRK3e8iiK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-1" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Eclipsia&lt;/h1&gt;&lt;div&gt;Kingdom dedicated to &lt;b&gt;Selynthar&lt;/b&gt;, created after &lt;b&gt;Secarsion&lt;/b&gt;. Contains &lt;b&gt;Seraph-Elyon&lt;/b&gt; as the capital, with the &lt;b&gt;O.B.C.&lt;/b&gt; as the dominant military branch.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="166" width="180" x="89" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-7" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-9" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="vESyuJhb2s0FRK3e8iiK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-5" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Seraph-Elyon&lt;/h1&gt;&lt;div&gt;Central capital of &lt;b&gt;Eclipsia&lt;/b&gt;, both a metropolis and a supermassive church that houses &lt;b&gt;Selynthar&lt;/b&gt;, with the &lt;b&gt;O.B.C&lt;/b&gt;. as the military branch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="166" width="200" x="-61" y="522.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-10" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-12" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="vESyuJhb2s0FRK3e8iiK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-8" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;O.B.C.&lt;/h1&gt;&lt;div&gt;Stands for &quot;Order of the Broken Celestial&quot;. Military branch of &lt;b&gt;Seraph-Elyon&lt;/b&gt;, launching crusades frequently on the &lt;b&gt;Gray World&lt;/b&gt; and providing information about sin to &lt;b&gt;Selynthar&lt;/b&gt;. Commanded by the &lt;b&gt;Four Great Knights&lt;/b&gt;, eventually destroyed after the &lt;b&gt;Lust War&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="225" width="180" x="93" y="728" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-13" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="cteeXFExkGseJQqinhMh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-14" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="CnyTc_cmp-E1sZ_Ip6yX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-15" edge="1" parent="1" source="vESyuJhb2s0FRK3e8iiK-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="cteeXFExkGseJQqinhMh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vESyuJhb2s0FRK3e8iiK-11" parent="1" style="text;html=1;overflow=hidden;rounded=0;perimeterSpacing=1;strokeColor=default;whiteSpace=wrap;spacingTop=2;spacingRight=2;spacingBottom=2;spacingLeft=2;verticalAlign=middle;align=center;fontFamily=Cinzel;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCinzel;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Cinzel&quot;&gt;Gray World&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;Lifeless plane populated by mindless husks. Neither touched by sin or virtue during the &lt;b&gt;War Above&lt;/b&gt;. After &lt;b&gt;Selynthar&lt;/b&gt;&#39;s &lt;b&gt;secarsion&lt;/b&gt;, it was populated by humans, where &lt;b&gt;Eclipsia&lt;/b&gt; was founded and the &lt;b&gt;O.B.C&lt;/b&gt;. launches crusades to claim land.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="221" width="180" x="999" y="858" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
